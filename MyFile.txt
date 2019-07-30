@@ -1,2 +1,2 @@
 This is the first line of MyFile.txt
-This is the second line of MyFile.txt
+This second line has been changed to this new line in ‘feature_1_testing’ branch
